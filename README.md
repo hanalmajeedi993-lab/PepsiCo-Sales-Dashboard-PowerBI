@@ -1,6 +1,5 @@
 # 📊 PepsiCo Sales Performance Dashboard (2024)
-[![Download PDF Report](https://img.shields.io/badge/Download_PDF-00256C?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](Pepsico_Sales_Dashboard.pdf?raw=true)
-[![Download PBIX](https://img.shields.io/badge/Download_Power_BI-EB6100?style=for-the-badge&logo=powerbi&logoColor=white)](Pepsico_Sales_Dashboard.pbix?raw=true)
+[![Download PDF](https://img.shields.io/badge/DOWNLOAD_PDF-00256C?style=for-the-badge)](Pepsico_Sales_Dashboard.pdf?raw=true) [![Download Power BI](https://img.shields.io/badge/DOWNLOAD_POWER_BI-EB6100?style=for-the-badge)](Pepsico_Sales_Dashboard.pbix?raw=true)
 
 ## 📌 Overview
 An interactive 6-page Power BI dashboard analyzing PepsiCo's overall sales, regional distribution, product category performance, customer buying behavior, and shipping operations.
